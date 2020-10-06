@@ -1,6 +1,6 @@
 # Terraform first project
 
-resource "aws_instance" "firstdemo" {
+resource "aws_instance" "firstproject" {
 
   ami           = "ami-027cab9a7bf0155df"
 
